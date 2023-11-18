@@ -3,10 +3,10 @@
 A simple Task Manager application built with PHP, MySQL, HTML, CSS, and JavaScript. This application enables users to perform basic CRUD operations - Create, Read, Update, and Delete tasks.
 
 ## Features
-- **Create**: Add new tasks with titles and descriptions.
-- **Read**: Display a list of tasks on the main page, showcasing titles and brief descriptions.
-- **Update**: Edit details of existing tasks, including titles and descriptions.
-- **Delete**: Remove tasks from the list.
+- **Create**: Implement a form to add a new task. Each task should have a title and a description.
+- **Read**: Display the list of tasks on the main page. Each task should show its title and a brief description.
+- **Update**: Provide a way to edit the details of an existing task. Include a form that allows the user to update the task's title and description.
+- **Delete**: Add a button or option to delete a task from the list.
 
 ### Setup
  - Apache Server using xampp application.
