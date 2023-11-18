@@ -10,7 +10,7 @@ A simple Task Manager application built with PHP, MySQL, HTML, CSS, and JavaScri
   ![Screenshot (97)](https://github.com/VishalBam/Task-Manager/assets/70063001/38640dc7-9ff4-4f28-8ed6-b107cde7c369)<br>
 
 - **Update**: Provide a way to edit the details of an existing task. Include a form that allows the user to update the task's title and description.<br><br>
-  ![Screenshot (98)](https://github.com/VishalBam/Task-Manager/assets/70063001/c43ba4be-557a-4794-950a-f58248143dc4)<br>
+  ![Screenshot (98)](https://github.com/VishalBam/Task-Manager/assets/70063001/c43ba4be-557a-4794-950a-f58248143dc4)<br><br>
   ![Screenshot (99)](https://github.com/VishalBam/Task-Manager/assets/70063001/c25b1c52-0664-458e-a4b8-d09bb4ca2c0e)<br>
 
 
