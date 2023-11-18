@@ -17,15 +17,10 @@ A simple Task Manager application built with PHP, MySQL, HTML, CSS, and JavaScri
 1. Clone the repository.
 2. Set up a MySQL database and update the `config.php` file.
 3. Start the PHP development server.
-4. Open your browser and navigate to `http://localhost:8000`.
+4. Open your browser and navigate to `http://localhost:3306`.
 
 ## Directory Structure
 - `index.php`: Main application file with HTML, CSS, JavaScript, and PHP code.
 - `config.php`: Configuration file for MySQL database connection.
 - `tasks.php`: PHP functions for managing tasks in the database.
 
-## Contribution
-Contributions are welcome! Report issues or submit pull requests on [GitHub](https://github.com/yourusername/task-manager-app).
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
