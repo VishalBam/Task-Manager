@@ -174,7 +174,8 @@ $tasks = getTasks();
 
 <script>
     function editTask(taskId) {
-        document.getElementById('updatedTitle').value = document.getElementById(taskId).firstChild.innerText;
+        document.getElementById('updatedTitle').value = document.getElementById(taskId).getElementsByTagName('span')[0].innerText;
+        document.querySelector("#updatedDescription").innerText = document.getElementById(taskId).getElementsByTagName('span')[1].innerText;
         document.getElementById('taskId').value = taskId;
         document.getElementById('taskForm').style.display = 'none';
         document.getElementById('updateForm').style.display = 'block';
