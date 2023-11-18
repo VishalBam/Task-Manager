@@ -24,7 +24,14 @@ A simple Task Manager application built with PHP, MySQL, HTML, CSS, and JavaScri
  - Apache Server using xampp application.
  - Files to be paste in htdocs directory inside xampp location.
  - Connect the MySQL with `config.php` file by giving host name, database name, user name, and password.
- - Turn on the apache server from xampp and run the `index.php` file on the browser. 
+ - Turn on the apache server from xampp and run the `index.php` file on the browser.
+ - On MySQL create database and table
+     - CREATE DATABASE task_manager;
+     - CREATE TABLE tasks (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        title VARCHAR(255) NOT NULL,
+        description TEXT NOT NULL
+        );
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
